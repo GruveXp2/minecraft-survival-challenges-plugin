@@ -1,0 +1,4 @@
+name: Survival Challenges
+version: '1.0-SNAPSHOT'
+main: org.example.survivalChallenges.Main
+api-version: '1.21'
